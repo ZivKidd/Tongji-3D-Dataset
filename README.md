@@ -1,6 +1,6 @@
 # Tongji-3D: A Large-Scale Urban Outdoor Point Cloud Dataset
 
-<center>Spatial-Temporal Intellisense Laboratory, Tongji University</center>
+<p align="center">Spatial-Temporal Intellisense Laboratory, Tongji University</p>
 
 # Introduction of the Tongji-3D datasets
 
@@ -12,7 +12,7 @@ This data is mainly used to test the performance of semantic segmentation algori
 
 ![image-20210722162954388](https://i.loli.net/2021/07/22/3SN6ODfiAIjdcgr.png)
 
-<center>Figure 1 Data collection area of the Tongji-3D.</center>
+Figure 1 Data collection area of the Tongji-3D.
 
 # **Data collection and semantic labeling** 
 
@@ -28,19 +28,19 @@ The number of point clouds in the whole collection area is still significant aft
 
 ![image-20210722163427632](https://i.loli.net/2021/07/22/Adx1CSe8mwWKIfB.png)
 
-<center>Figure 2 Divided subarea of the Tongji-3D coverage region.</center>
+Figure 2 Divided subarea of the Tongji-3D coverage region.
 
 ## Point cloud semantic labeling
 
 Data labeling is done manually with CloudCompare software. The basic principle of manual semantic annotation is that each category has a precise meaning and can be used for practical value, such as urban planning and asset management. According to the above essential criteria, ground objects are mainly divided into eight categories. These include building, vegetation, impervious surfaces, grassland, rod object, cars, bikes, and scanning artifacts. The detailed classification rules and the corresponding label values during classification are shown in Table 1.
 
-<center>Table 1 The classification categories of the and the corresponding ground features</center>
+Table 1 The classification categories of the and the corresponding ground features.
 
  ![image-20210722163517949](https://i.loli.net/2021/07/22/7AEzQhson593OTk.png)
 
 ![image-20210722163611649](https://i.loli.net/2021/07/22/rzCQc5uMABoIZwU.png)
 
-<center>Figure 3 Tongji-3D samples. (a) elevation colored point clouds; (b) colored visual point clouds; (c) manually labeled point clouds.</center>
+Figure 3 Tongji-3D samples. (a) elevation colored point clouds; (b) colored visual point clouds; (c) manually labeled point clouds.
 
 # Distribution of the scene categories
 
